@@ -21,7 +21,10 @@
 <a href="https://www.tiktok.com/@pruadf" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 <a href="twitch.tv/victoradf" target="_blank"><img src="	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
 <img align="right" src="!(https://user-images.githubusercontent.com/123043623/213892675-dac26531-4c11-4bfd-b1b0-cb0f5320e4bf.gif)/>
-
+</div>
+                        
+<div>
+                        
 ![snake gif](https://github.com/vicadf/vicadf/blob/output/github-contribution-grid-snake.svg)
-
+                        
 </div>
