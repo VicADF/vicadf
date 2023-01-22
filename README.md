@@ -15,13 +15,13 @@
  
  
  ### Outras Redes 📷
-<div> 
+<div>
+<img align="right" src="!(https://user-images.githubusercontent.com/123043623/213892675-dac26531-4c11-4bfd-b1b0-cb0f5320e4bf.gif)/>
 <a href="https://www.instagram.com/victoradf_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/TZjNYyT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/victor-alves-953234257" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.tiktok.com/@pruadf" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 <a href="twitch.tv/victoradf" target="_blank"><img src="	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-<img align="right" src="!(https://user-images.githubusercontent.com/123043623/213892675-dac26531-4c11-4bfd-b1b0-cb0f5320e4bf.gif)/>
 </div>
                         
 <div align="center">
