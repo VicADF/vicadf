@@ -5,9 +5,9 @@
 </div>
 
 <div>
-<img width="42% width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vicadf&show_icons=true&theme=dracula"/>
+<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vicadf&show_icons=true&theme=dracula"/>
 
-<img width="50% width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicadf&layout=compact&langs_count=16&theme=dracula"/>
+<img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicadf&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
  ### Outras Redes 📷
