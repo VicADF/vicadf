@@ -1,4 +1,3 @@
-
 <div>
  
 ![! image (httpsuser-images githubusercontent com123043623213885172-229a987d-376d-4bbc-bea4-02c7b884a56c png)](https://user-images.githubusercontent.com/123043623/213887611-7515e96f-d400-45d0-ac36-d277b655b843.png)
@@ -9,7 +8,8 @@
 <div>
 <img width="40%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=vicadf&show_icons=true&theme=dracula"/>
 <img width="40%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicadf&layout=compact&langs_count=16&theme=dracula"/>
-<img align=right height="180em" src="https://cdn.discordapp.com/attachments/734864868716576848/1066563210259464273/preview.gif"
+<img align=right height="140em" src="https://cdn.discordapp.com/attachments/734864868716576848/1066563210259464273/preview.gif"
+
 </div>
 
  
