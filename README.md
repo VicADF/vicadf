@@ -8,7 +8,7 @@
 <div>
 <img width="40%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=vicadf&show_icons=true&theme=dracula"/>
 <img width="40%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicadf&layout=compact&langs_count=16&theme=dracula"/>
-<img align=right height="150em" src="https://cdn.discordapp.com/attachments/734864868716576848/1066563210259464273/preview.gif"
+<img align=right height="145em" src="https://cdn.discordapp.com/attachments/734864868716576848/1066563210259464273/preview.gif"
 
 </div>
 
